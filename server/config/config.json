@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "debid",
+    "password": "",
     "database": "ededi_db",
     "host": "localhost",
     "dialect": "mysql"
